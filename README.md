@@ -29,8 +29,8 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the Repository**:
    - Open a terminal or command prompt and clone the repository using:
      ```bash
-     git clone https://github.com/your-username/your-repository-name.git
-     cd your-repository-name
+     git clone https://github.com/vikasvs007/waste-segregation-ml.git
+     cd waste-segregation-ml
      ```
 
 2. **Install Dependencies**:
