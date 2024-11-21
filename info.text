@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 scikit-learn:
 
 Purpose: Scikit-learn is a robust library for machine learning in Python. It includes a range of algorithms and tools for model training, evaluation, and data preprocessing.
@@ -47,3 +48,23 @@ https://chatgpt.com/c/672fbd5f-6f74-8001-b052-7683b2840ed8
 
 19-11-24
 https://chatgpt.com/c/673c50e4-5114-800c-970a-8e9e206307c2
+=======
+scikit-learn:
+
+Purpose: Scikit-learn is a robust library for machine learning in Python. It includes a range of algorithms and tools for model training, evaluation, and data preprocessing.
+In Our Project: Scikit-learn is used to:
+Train and use a Support Vector Machine (SVM) classifier, which classifies images based on features.
+Split data into training and test sets for evaluation.
+Calculate model accuracy and generate a classification report.
+
+numpy:
+
+Purpose: NumPy is a fundamental package for scientific computing with Python. It allows for efficient array operations and mathematical calculations, which are essential for image and feature data manipulation.
+In Our Project: NumPy is used to:
+Store images and features in arrays.
+Perform fast numerical operations on images (like reshaping or stacking arrays).
+Handle data formatting for the machine learning model.
+
+chat history on chatGPT
+Unicodeescape error due to backwordslash instaed of that use forwordslash
+>>>>>>> 8baefeed6365a2c62d0efc3786f51b85a3df4943
