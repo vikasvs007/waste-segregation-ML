@@ -1,0 +1,49 @@
+scikit-learn:
+
+Purpose: Scikit-learn is a robust library for machine learning in Python. It includes a range of algorithms and tools for model training, evaluation, and data preprocessing.
+In Our Project: Scikit-learn is used to:
+Train and use a Support Vector Machine (SVM) classifier, which classifies images based on features.
+Split data into training and test sets for evaluation.
+Calculate model accuracy and generate a classification report.
+
+numpy:
+
+Purpose: NumPy is a fundamental package for scientific computing with Python. It allows for efficient array operations and mathematical calculations, which are essential for image and feature data manipulation.
+In Our Project: NumPy is used to:
+Store images and features in arrays.
+Perform fast numerical operations on images (like reshaping or stacking arrays).
+Handle data formatting for the machine learning model.
+
+chat history on chatGPT
+Unicodeescape error due to backwordslash instaed of that use forwordslash
+
+https://chatgpt.com/c/672261b0-7e6c-800c-8a22-e06dc9f07094
+
+https://chatgpt.com/c/672261b0-7e6c-800c-8a22-e06dc9f07094
+
+https://chatgpt.com/c/672261b0-7e6c-800c-8a22-e06dc9f07094
+
+https://chatgpt.com/c/67236f7f-ec6c-800c-a81f-ddc30ad365c3
+
+date -07/10/24 data mosel ResNET
+https://chatgpt.com/g/g-cKXjWStaE-python/c/672ce6c5-5004-800c-bea6-bde5a4a0f6a8
+date-08-11-24
+https://chatgpt.com/c/672e35a0-dc70-800c-a6f4-2a7489219d97
+
+https://chatgpt.com/c/672e52d3-a398-8001-a0b0-d387dd45d89b
+
+https://chatgpt.com/c/672e52d3-a398-8001-a0b0-d387dd45d89b
+
+
+https://github.com/titulacion2021/Image-Classification-ResNet/blob/main/COVID_19_Classifier.ipynb
+
+https://chatgpt.com/g/g-HMNcP6w7d-data-analyst/c/672ebd24-5328-800c-aba7-4892389aeb30
+
+
+16-11-2024
+https://chatgpt.com/c/6739b009-2e38-800c-b90d-c723c3cea865
+
+https://chatgpt.com/c/672fbd5f-6f74-8001-b052-7683b2840ed8
+
+19-11-24
+https://chatgpt.com/c/673c50e4-5114-800c-970a-8e9e206307c2
